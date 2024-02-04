@@ -1,9 +1,5 @@
 package com.prosto.java.designPatterns.drinkFactory;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-
 public class BikeCafe {
 
     public static void main(String[] args) {
