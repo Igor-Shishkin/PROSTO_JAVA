@@ -1,4 +1,4 @@
-package com.prosto.java.designPatterns.drinkFactory;
+package com.prosto.java.designPatterns.drinkFactory.entities;
 
 public class Coffee implements Drink{
 

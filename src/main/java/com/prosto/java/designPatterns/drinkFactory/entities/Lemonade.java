@@ -1,4 +1,4 @@
-package com.prosto.java.designPatterns.drinkFactory;
+package com.prosto.java.designPatterns.drinkFactory.entities;
 
 public class Lemonade implements Drink{
     @Override
