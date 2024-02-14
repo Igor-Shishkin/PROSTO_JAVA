@@ -1,5 +1,11 @@
 package com.prosto.java.designPatterns.drinkFactory;
 
+import com.prosto.java.designPatterns.drinkFactory.entities.Drink;
+import com.prosto.java.designPatterns.drinkFactory.factories.CoffeeFactory;
+import com.prosto.java.designPatterns.drinkFactory.factories.DrinkFactory;
+import com.prosto.java.designPatterns.drinkFactory.factories.LemonadeFactory;
+import com.prosto.java.designPatterns.drinkFactory.factories.TeaFactory;
+
 public class BikeCafe {
 
     public static void main(String[] args) {

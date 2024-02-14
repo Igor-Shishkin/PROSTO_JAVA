@@ -2,7 +2,7 @@ package com.prosto.java.algoritms;
 
 import java.util.Arrays;
 
-public class quickSortAlgorythm {
+public class QuickSortAlgorythm {
     public static void main(String[] args) {
 
         int[] arr = {1, 7, 4, 6, 9, 8, 1, 6, 5};
