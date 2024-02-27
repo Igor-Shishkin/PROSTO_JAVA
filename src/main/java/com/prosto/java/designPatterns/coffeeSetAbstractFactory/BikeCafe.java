@@ -16,6 +16,5 @@ public class BikeCafe {
         coffee.getCoffee();
         sprinkles.getSprinkles();
         dessert.getDessert();
-
     }
 }
