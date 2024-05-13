@@ -2,7 +2,7 @@ package com.prosto.java.designPatterns.prototype;
 
 import java.util.Objects;
 
-public class Coffee implements Copyable{
+public class Coffee implements Copyable, CoffeeCopyWithSugar{
     int espressoInMilliliters;
     int milkInMilliliters;
     int sugarInSpoons;
@@ -23,10 +23,18 @@ public class Coffee implements Copyable{
 
     @Override
     public Object createCopy() {
-
         return new Coffee(this.espressoInMilliliters,
                 this.milkInMilliliters,
                 this.sugarInSpoons,
+                this.syrupInMilliliters,
+                this.syrupType,
+                this.sprinkles);
+    }
+    @Override
+    public Coffee createCoffeeWithSugar(int sugar) {
+        return new Coffee(this.espressoInMilliliters,
+                this.milkInMilliliters,
+                sugar,
                 this.syrupInMilliliters,
                 this.syrupType,
                 this.sprinkles);
@@ -44,6 +52,9 @@ public class Coffee implements Copyable{
     public int hashCode() {
         return Objects.hash(espressoInMilliliters, milkInMilliliters, sugarInSpoons, syrupInMilliliters, syrupType, sprinkles);
     }
+
+
+
 
     public static class Builder {
             int espressoInMilliliters;

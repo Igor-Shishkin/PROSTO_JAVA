@@ -6,6 +6,7 @@ public class CoffeeFactory {
     public CoffeeFactory(Coffee coffee) {
         this.coffee = coffee;
     }
+
     public Coffee createCopy() {
         return (Coffee) coffee.createCopy();
     }

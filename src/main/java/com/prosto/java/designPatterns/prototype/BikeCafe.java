@@ -2,24 +2,31 @@ package com.prosto.java.designPatterns.prototype;
 
 public class BikeCafe {
     public static void main(String[] args) {
-
-        Coffee latte = new Coffee.Builder()
-                .withEspressoInMilliliters(40)
+        Coffee latteOne = new Coffee.Builder()
+                .withEspressoInMilliliters(60)
                 .withMilkInMilliliters(180)
-                .withSyrupInMilliliters(25)
                 .withSyrupType(Syrup.WHISKEY)
-                .withSprinkles(Sprinkles.CINNAMON)
+                .withSyrupInMilliliters(30)
+                .withSprinkles(Sprinkles.GRATED_CHOCOLATE)
                 .build();
 
-        CoffeeFactory latteFactory = new CoffeeFactory(latte);
+        CoffeeFactory coffeeFactory = new CoffeeFactory(latteOne);
 
-        Coffee latteCopy = latteFactory.createCopy();
+        Coffee latteTwo = coffeeFactory.createCopy();
 
-        System.out.println("This is ONE mug of coffee: " +
-                (latteCopy == latte));
-        System.out.println("\n");
-        System.out.println("These coffee mugs are the same: " +
-                latte.equals(latteCopy));
+//        System.out.println("This is ONE mug of coffee: " +
+//                (latteOne == latteTwo));
+//        System.out.println("These coffee mugs are the same: " +
+//                latteOne.equals(latteTwo));
 
+        Coffee latteThree = latteOne.createCoffeeWithSugar(3);
+        System.out.println(latteThree);
     }
+
+
+
+
+
+
+
 }
