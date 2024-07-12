@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78ce092a-e14e-4bec-8a16-fcee2b5a3ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prosto/java/recursion/Factorial.java" afterDir="false" />
+    <list default="true" id="78ce092a-e14e-4bec-8a16-fcee2b5a3ec2" name="Changes" comment="deleting testing files">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prosto/java/training/wzorceStructualne/adapt/BikeCafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prosto/java/training/wzorceStructualne/adapt/FrotherABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prosto/java/training/wzorceStructualne/adapt/FrotherABCAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prosto/java/training/wzorceStructualne/adapt/FrotherXYZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prosto/java/training/wzorceStructualne/adapt/NewCoffeeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prosto/java/training/wzorceStructualne/adapt/OldCoffeeMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/prosto/java/designPatterns/coffeeSetAbstractFactory/BikeCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prosto/java/designPatterns/coffeeSetAbstractFactory/BikeCafe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -23,12 +36,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/com/prosto/java/recursion/Factorial.java" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Igor-Shishkin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Igor-Shishkin/PROSTO_JAVA.git",
+    "accountId": "b5329774-6e67-4f8d-9933-ead5c897bc0d"
+  }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/prosto/java/algoritms/quickSort.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/prosto/java/recursion/Factorial.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/prosto/java/recursion/FibonacciSequence.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/training.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2VFK26J7pmenp6XSIITu8gDn4Ia" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,19 +65,109 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.WordFrequencyCounter.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/IdeaProjects",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "D:/IdeaProjects/prostoJava/src/main/java/com/prosto/java/training/wzorceStructualne/adaptor",
+    "last_opened_file_path": "D:/IdeaProjects/prostoJava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.26171875",
+    "project.structure.side.proportion": "0.3178808",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prosto.java.recursion.Factorial" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.prosto.java.training.chainResponsibility" />
+      <recent name="com.prosto.java.designPatterns.coffeeBuilder" />
+      <recent name="com.prosto.java.training.wzorceStructualne.facade" />
+      <recent name="com.prosto.java.training.wzorceStructualne.adaptor" />
+      <recent name="com.prosto.java.forTrain.abstractFabric.cappuccinoSet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\prostoJava\src\main\java\com\prosto\java\training\wzorceStructualne\abstractFabric\adapt" />
+      <recent name="D:\IdeaProjects\prostoJava\src\main\java\com\prosto\java\designPatterns\prototype" />
+      <recent name="D:\IdeaProjects\prostoJava\src\main\java\com\prosto\java\training\wzorceStructualne" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\prostoJava\src\main\java\com\prosto\java\designPatterns\coffeeSetAbstractFactory" />
+      <recent name="D:\IdeaProjects\prostoJava\src\main\java\com\prosto\java\forTrain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WordFrequencyCounter">
+    <configuration name="BucketSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prosto.java.algoritms.training.BucketSort" />
       <module name="prostoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prosto.java.recursion.*" />
+          <option name="PATTERN" value="com.prosto.java.algoritms.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prosto.java.algoritms.training.EditDistance" />
+      <module name="prostoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prosto.java.algoritms.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prosto.java.algoritms.training.HeapSort" />
+      <module name="prostoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prosto.java.algoritms.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prosto.java.training.otherStuff.Lists" />
+      <module name="prostoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prosto.java.training.otherStuff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordFrequencyCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prosto.java.training.fileWR.WordFrequencyCounter" />
+      <module name="prostoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prosto.java.training.fileWR.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,9 +177,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.WordFrequencyCounter" />
+        <item itemvalue="Application.BucketSort" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.Lists" />
+        <item itemvalue="Application.EditDistance" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,7 +201,280 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694426178698</updated>
+      <workItem from="1696259988205" duration="300000" />
+      <workItem from="1696415667719" duration="2399000" />
+      <workItem from="1696551010072" duration="333000" />
+      <workItem from="1696551377811" duration="617000" />
+      <workItem from="1696552924782" duration="534000" />
+      <workItem from="1696553644888" duration="2288000" />
+      <workItem from="1696602930457" duration="1354000" />
+      <workItem from="1696604438395" duration="637000" />
+      <workItem from="1697022077990" duration="1451000" />
+      <workItem from="1697102670122" duration="1050000" />
+      <workItem from="1697266893375" duration="21000" />
+      <workItem from="1698158051477" duration="1571000" />
+      <workItem from="1698237421496" duration="2574000" />
+      <workItem from="1698329609169" duration="245000" />
+      <workItem from="1698330171171" duration="515000" />
+      <workItem from="1698331046443" duration="565000" />
+      <workItem from="1698419713684" duration="1641000" />
+      <workItem from="1698424866337" duration="22000" />
+      <workItem from="1698752605543" duration="5151000" />
+      <workItem from="1698831919388" duration="1213000" />
+      <workItem from="1698946632614" duration="1330000" />
+      <workItem from="1699039657505" duration="616000" />
+      <workItem from="1699085594780" duration="162000" />
+      <workItem from="1699610121461" duration="673000" />
+      <workItem from="1699950043437" duration="28000" />
+      <workItem from="1706887679487" duration="1124000" />
+      <workItem from="1706952485974" duration="671000" />
+      <workItem from="1707049031340" duration="5289000" />
+      <workItem from="1707062382407" duration="1466000" />
+      <workItem from="1707575179028" duration="11162000" />
+      <workItem from="1707907429760" duration="5526000" />
+      <workItem from="1708510999920" duration="2972000" />
+      <workItem from="1708624447369" duration="6162000" />
+      <workItem from="1708713832744" duration="673000" />
+      <workItem from="1708787260137" duration="4431000" />
+      <workItem from="1708858696736" duration="3903000" />
+      <workItem from="1709043365165" duration="8788000" />
+      <workItem from="1709199236172" duration="3018000" />
+      <workItem from="1709274806724" duration="2450000" />
+      <workItem from="1709317664624" duration="4120000" />
+      <workItem from="1709977145319" duration="79000" />
+      <workItem from="1712242596695" duration="2491000" />
+      <workItem from="1712386422643" duration="56000" />
+      <workItem from="1715183437143" duration="4093000" />
+      <workItem from="1715358081141" duration="7294000" />
+      <workItem from="1715416213781" duration="4588000" />
+      <workItem from="1715606835036" duration="8411000" />
+      <workItem from="1715673050435" duration="868000" />
+      <workItem from="1715699797684" duration="3725000" />
+      <workItem from="1715802383449" duration="2025000" />
+      <workItem from="1715841654934" duration="1361000" />
+      <workItem from="1715887062456" duration="1343000" />
+      <workItem from="1715974755849" duration="7164000" />
+      <workItem from="1716112473409" duration="1252000" />
+      <workItem from="1716191134070" duration="2484000" />
+      <workItem from="1716194108153" duration="1841000" />
+      <workItem from="1716224840096" duration="316000" />
+      <workItem from="1716225214401" duration="1582000" />
+      <workItem from="1716280351994" duration="839000" />
+      <workItem from="1716307406946" duration="257000" />
+      <workItem from="1716307720502" duration="10697000" />
+      <workItem from="1716648296164" duration="610000" />
+      <workItem from="1716747100604" duration="691000" />
+      <workItem from="1718089617861" duration="4996000" />
+      <workItem from="1718098128261" duration="5478000" />
+      <workItem from="1718181457833" duration="3238000" />
+      <workItem from="1718438840782" duration="419000" />
+      <workItem from="1718535074733" duration="102000" />
+      <workItem from="1718902186394" duration="43000" />
+      <workItem from="1720512696546" duration="1301000" />
     </task>
+    <task id="LOCAL-00001" summary="create 'factorial - recursion' film">
+      <option name="closed" value="true" />
+      <created>1694461907089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694461907089</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create 'fibonacci - recursion' film">
+      <option name="closed" value="true" />
+      <created>1695731798331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695731798331</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create 'bubble sorting - recursion' film">
+      <option name="closed" value="true" />
+      <created>1696188347928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696188347928</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create 'quick sort - recursion' film">
+      <option name="closed" value="true" />
+      <created>1698957932249</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698957932250</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create 'factory method' film">
+      <option name="closed" value="true" />
+      <created>1707062488317</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707062488317</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create 'factory method' film - editing">
+      <option name="closed" value="true" />
+      <created>1707062528441</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707062528441</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create 'factory method' film - refactoring">
+      <option name="closed" value="true" />
+      <created>1707063242555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707063242555</updated>
+    </task>
+    <task id="LOCAL-00008" summary="create 'abstract factory method' film -">
+      <option name="closed" value="true" />
+      <created>1707912741031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707912741031</updated>
+    </task>
+    <task id="LOCAL-00009" summary="create 'coffee builder' film -">
+      <option name="closed" value="true" />
+      <created>1709055478270</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709055478270</updated>
+    </task>
+    <task id="LOCAL-00010" summary="create 'coffee prototype' film -">
+      <option name="closed" value="true" />
+      <created>1709327125293</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709327125293</updated>
+    </task>
+    <task id="LOCAL-00011" summary="create 'coffee prototype' film -">
+      <option name="closed" value="true" />
+      <created>1715616761458</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715616761458</updated>
+    </task>
+    <task id="LOCAL-00012" summary="create 'coffee singleton' film -">
+      <option name="closed" value="true" />
+      <created>1715715373260</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715715373260</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update 'coffee singleton' film -">
+      <option name="closed" value="true" />
+      <created>1715715419761</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715715419761</updated>
+    </task>
+    <task id="LOCAL-00014" summary="deleting testing files">
+      <option name="closed" value="true" />
+      <created>1715802668511</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715802668511</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <envs>
+      <env key="JAVA_HOME" value="C:\Program Files\Java\jdk-21" />
+    </envs>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create 'factorial - recursion' film" />
+    <MESSAGE value="create 'fibonacci - recursion' film" />
+    <MESSAGE value="create 'bubble sorting - recursion' film" />
+    <MESSAGE value="create 'quick sort - recursion' film" />
+    <MESSAGE value="create 'factory method' film" />
+    <MESSAGE value="create 'factory method' film - editing" />
+    <MESSAGE value="create 'factory method' film - refactoring" />
+    <MESSAGE value="create 'abstract factory method' film -" />
+    <MESSAGE value="create 'coffee builder' film -" />
+    <MESSAGE value="create 'coffee prototype' film -" />
+    <MESSAGE value="create 'coffee singleton' film -" />
+    <MESSAGE value="update 'coffee singleton' film -" />
+    <MESSAGE value="deleting testing files" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleting testing files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prosto/java/training/otherStuff/training.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prosto/java/training/wzorceStructualne/flyweight/ProjectRunner.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prosto/java/algoritms/training/EditDistance.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prosto/java/algoritms/training/HeapSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prosto/java/algoritms/training/HeapSort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prosto/java/algoritms/training/ActivityGreedySelection.java</url>
+          <line>18</line>
+          <properties class="com.prosto.java.algoritms.training.ActivityGreedySelection">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="low" />
+        <watch expression="((NonfairSync)lock.sync).exclusiveOwnerThread" custom="java.util.concurrent.locks.ReentrantLock.NonfairSync" />
+        <watch expression="m[3]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
