@@ -1,4 +1,4 @@
-package com.prosto.java.training.wzorceStructualne.adapt;
+package com.prosto.java.designPatterns.structural.adapter;
 
 public class OldCoffeeMachine {
     private final FrotherABC frother;
@@ -6,9 +6,11 @@ public class OldCoffeeMachine {
     public OldCoffeeMachine(FrotherABC frother) {
         this.frother = frother;
     }
+
     public void makeEspresso(){
         System.out.println("The strongest espresso");
     }
+
     public void addFrothedHotMilk(){
         frother.heatMilk();
         frother.frothMilk();
